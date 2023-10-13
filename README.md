@@ -51,7 +51,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/HACHEJOTA/Hachiko-Bot-MD.git && cd Hachiko-Bot-MD
+git clone https://github.com/ANGEL9000/Angelofc9000/Hachiko-Bot-MD.git && cd Hachiko-Bot-MD
 ```
 
 ```bash
@@ -106,6 +106,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
 ## `EDITOR & PROPIETARIO DEL BOT` 
-<a href="https://github.com/HACHEJOTA"><img src="https://github.com/HACHEJOTA.png" width="250" height="250" alt="HACHEJOTA"/></a>
+<a href="https://github.com/ANGEL9000/Angelofc9000"><img src="https://github.com/https://github.com/ANGEL9000/Angelofc9000.png" width="250" height="250" alt="ANGEL"/></a>
   
 `AndyBotD - By Angel`
