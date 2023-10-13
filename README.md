@@ -108,4 +108,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `EDITOR & PROPIETARIO DEL BOT` 
 <a href="https://github.com/HACHEJOTA"><img src="https://github.com/HACHEJOTA.png" width="250" height="250" alt="HACHEJOTA"/></a>
   
-`HachikoBot - By HacheJota`
+`AndyBotD - By Angel`
